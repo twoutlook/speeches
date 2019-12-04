@@ -1,7 +1,7 @@
 # WEST Toastmaster Club Member
 
 | Name      |    Repository                          |
-|:----------|:--------------------------------------:|
+|:----------|:--------------------------------------|
 | Mark      | https://github.com/twoutlook/speeches |
 | Echo      | https://github.com/e1111-cute/speech  |
 | Shawn     | https://github.com/7cheer7/speeches  |
