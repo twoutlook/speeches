@@ -57,13 +57,15 @@ https://www.toastmasters.org/pathways-overview/pathways-innovative-planning-path
 - not necessary to be speaking skills
 - The way you see your audio when you speak
 - Able to think when you speak
-- Understand more than before about other speaker's contents and/or between the lines
+- Understand more than before about other speaker's topics
+- Better guessing between the lines
 
 
 ## Describe the impact of being a Toastmaster.
 > Write about how Toastmasters has affected your life.
 
-- walk out of your comfort zone
+- step out of your comfort zone https://www.wikihow.com/Step-Out-of-Your-Comfort-Zone
+
   - speech
   - events, unknwn places and people
   
