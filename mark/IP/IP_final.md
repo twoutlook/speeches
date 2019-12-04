@@ -45,6 +45,7 @@ https://www.toastmasters.org/pathways-overview/pathways-innovative-planning-path
   - last year learned how to headstand
 - a surgery, last Chinese New Year
   - early this year, recovering, Kunshan marathon 5k, only walking, photoed by James from GoodBoy
+  - total recovery 5 months, better than before
 - a more than 4-month on-site project, schedule was 3 months, a remote area in HuBei, the nearest Toastmaster club was more than 50 KM
   - to SuZhou timesquare MRT station, round trip
   - no MRT, train to that town ends 3pm
