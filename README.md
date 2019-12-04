@@ -1,4 +1,4 @@
-# WEST Toastmaster Club Member
+# WEST Toastmaster Club Member's repository List
 
 | Name      |    Repository                          |
 |:----------|:--------------------------------------|
