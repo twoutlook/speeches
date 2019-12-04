@@ -1,12 +1,13 @@
 # WEST Toastmaster Club Member
 
-- Mark https://github.com/twoutlook/speeches/
-- Echo https://github.com/e1111-cute/speech
--
 | Name      |    Repository                          |
 |:----------|:--------------------------------------:|
-| Mark      |  https://github.com/twoutlook/speeches/|
+| Mark      |  https://github.com/twoutlook/speeches |
 | Echo      |  https://github.com/e1111-cute/speech  |
+| Shawn     |  https://github.com/7cheer7/speeches  |
+| Renia     |  https://github.com/reniajy/speeches  |
+
+
 
 ## (1) Create a Github Account
  https://github.com to Sign Up
