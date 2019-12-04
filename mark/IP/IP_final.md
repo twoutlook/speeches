@@ -36,6 +36,9 @@ https://www.toastmasters.org/pathways-overview/pathways-innovative-planning-path
   - Taicang 娄語社
   - 中興新村，Nantou https://www.toastmasters.org/Find-a-Club/00000785-nantou-club
   - 草屯, in a company USI, open to community, https://www.toastmasters.org/Find-a-Club/04273941-ug
+  
+- an App for teambuilding survey
+- an App for club operation
 
 ## List your accomplishments outside of Toastmasters.
 > Include everything you accomplished outside of Toastmasters from the beginning of your current path until now, from the smallest achievements to the largest successes.
@@ -75,11 +78,13 @@ https://www.toastmasters.org/pathways-overview/pathways-innovative-planning-path
 > Describe how you can apply the skills you learned to the accomplishment of future goals. These can include personal goals and helping others achieve their goals.
 
 - Continue another Pathway
-- to help WEST club
+- to guide club member to use Github to keep and share speech 
+- to enhance TMC club App
+
 
 ## Set new Toastmasters goals.
 > Describe your plans for remaining active in Toastmasters. These goals can include leadership roles at the club or district level as well as mentoring.
 
 - infinite game, not really to achieve any ending, 
-- keep a conversation going
-- keep Toastmasters regular meeting going
+- keep a conversation going => keep Toastmasters regular meeting going
+- to improve quality of club meetings
