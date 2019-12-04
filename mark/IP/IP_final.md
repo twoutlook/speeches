@@ -6,7 +6,7 @@ ref.
 ```
 
 ## Opening
-- It took me 2 year to finish first Pathway
+- It took me 2 years to finish my first Pathway, Innovative Planning https://www.toastmasters.org/pathways-overview/pathways-innovative-planning-path
   - 50 * 3 = 150, coount of meeting speech in a year
   - let 10 members finish their Pathways
   
