@@ -9,8 +9,8 @@ ref.
 - It took me 2 years to finish my first Pathway, Innovative Planning 
 https://www.toastmasters.org/pathways-overview/pathways-innovative-planning-path
 
-- 50 * 3 = 150, coount of meeting speech in a year
-  - let 10 members finish their Pathways
+- 50 * 3 = 150, count of meeting speech for one club in one year
+  - roughly let 10 members finish their Pathways
   
 - idea to spread
   - network : thoughts
