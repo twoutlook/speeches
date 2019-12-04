@@ -10,8 +10,6 @@
 
 
 ## (1) Create a Github Account
- https://github.com to Sign Up
-
 
 ## (2) New Repository: speeches
 
