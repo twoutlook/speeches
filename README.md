@@ -1,6 +1,7 @@
 # WEST Toastmaster Club Member
 
-## (1) Github Account
+## (1) Create a Github Account
+ https://github.com to Sign Up
 
 
 ## (2) New Repository: speeches
