@@ -5,6 +5,8 @@
 
 ## (2) New Repository: speeches
 
+![](img/speeches.png)
+
 
 ## (3) Assist another member to complete (1) and (2)
 
