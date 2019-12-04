@@ -6,8 +6,10 @@ ref.
 ```
 
 ## Opening
-- It took me 2 years to finish my first Pathway, Innovative Planning https://www.toastmasters.org/pathways-overview/pathways-innovative-planning-path
-  - 50 * 3 = 150, coount of meeting speech in a year
+- It took me 2 years to finish my first Pathway, Innovative Planning 
+https://www.toastmasters.org/pathways-overview/pathways-innovative-planning-path
+
+- 50 * 3 = 150, coount of meeting speech in a year
   - let 10 members finish their Pathways
   
 - idea to spread
@@ -32,8 +34,8 @@ ref.
   - Simultaneous Interpretation，Monica, Elane took my ticket
 - visit other club
   - Taicang 娄語社
-  - Nantou https://www.toastmasters.org/Find-a-Club/00000785-nantou-club
-  - USI,company club, open to community
+  - 中興新村，Nantou https://www.toastmasters.org/Find-a-Club/00000785-nantou-club
+  - 草屯, in a company USI, open to community, https://www.toastmasters.org/Find-a-Club/04273941-ug
 
 ## List your accomplishments outside of Toastmasters.
 > Include everything you accomplished outside of Toastmasters from the beginning of your current path until now, from the smallest achievements to the largest successes.
