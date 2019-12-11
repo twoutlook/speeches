@@ -1,14 +1,15 @@
 # WEST TMC Member's Repository List
 
-| Name      |    Repository                          |
-|:----------|:--------------------------------------|
-| Mark      | https://github.com/twoutlook/speeches |
-| Echo      | https://github.com/e1111-cute/speech  |
-| Shawn     | https://github.com/7cheer7/speeches  |
-| Renia     | https://github.com/reniajy/speeches  |
+| Name      |    Repository                          |Created| 
+|:----------|:--------------------------------------| |
+| Mark      | https://github.com/twoutlook/speeches | |
+| Echo      | https://github.com/e1111-cute/speech  | |
+| Shawn     | https://github.com/7cheer7/speeches  | |
+| Renia     | https://github.com/reniajy/speeches  | |
+| Eric      | https://github.com/EricTcy/speech/ | 2019-12-11 |
+ |
 
-
-
+                            
 ## (1) Create a Github Account
 
 ## (2) New Repository: speeches
