@@ -7,7 +7,7 @@
 | Shawn     | https://github.com/7cheer7/speeches   | |
 | Renia     | https://github.com/reniajy/speeches   | |
 | Eric      | https://github.com/EricTcy/speech    | 2019-12-11 |
- 
+| Andy      | https://github.com/Andy0083/speech/blob/master/README.md | 2019-12-15 |
 
                             
 ## (1) Create a Github Account
