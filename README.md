@@ -8,7 +8,7 @@
 | Renia     | https://github.com/reniajy/speeches   | |
 | Eric      | https://github.com/EricTcy/speech    | 2019-12-11 |
 | Andy      | https://github.com/Andy0083/speech/blob/master/README.md | 2019-12-15 |
-| Andy      | https://github.com/Vicky-zyf/2019/blob/master/speech%20draft | 2019-12-28 |
+| Vicky      | https://github.com/Vicky-zyf/2019/blob/master/speech%20draft | 2019-12-28 |
 
                             
 ## (1) Create a Github Account
